@@ -1,4 +1,3 @@
-# Architecture-Types-in-NodeJS
 
 # Architecture-Types-in-NodeJS
 
